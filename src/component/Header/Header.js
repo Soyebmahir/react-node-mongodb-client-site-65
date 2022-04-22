@@ -6,7 +6,7 @@ const Header = () => {
         <div>
             <Link to='/user'> Home</Link>
             <Link to='/user/add'>Add User</Link>
-            <Link to='/updateUser'>UpdateUser</Link>
+            {/* <Link to='/updateUser'>UpdateUser</Link> */}
         </div>
     );
 };
